@@ -1,0 +1,12 @@
+{
+  "name": "jest-sourcemap-gitignore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ian MacLeod <ian@nevir.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^22.2.0",
+    "jest": "^22.4.2",
+    "typescript": "^2.7.2"
+  }
+}
